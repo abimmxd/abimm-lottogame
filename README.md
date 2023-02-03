@@ -7,7 +7,7 @@ qbCore framework:  (https://github.com/abimmxd/qb-core)
 ## Setup
 1. ensure abimm-lottogame at server.cfg
 2. copy paste **lotto.png** in inventory/html/images folder
-3 add see below to you shared.lua
+3. add see below to you shared.lua
 
 
 ```
@@ -24,9 +24,7 @@ qbCore framework:  (https://github.com/abimmxd/qb-core)
   ["description"] = "Lucky Ticket"},
  ```
  
-## Win screen
-https://media.giphy.com/media/tupEdbE0QE6USnbZsr/source.gif
+## Image Lotto
 
-## Lost screen
-https://media.giphy.com/media/l1Kx74oMJweCiFZOL6/source.gif
+![alt text](https://github.com/abimmxd/abimm-lottogame/blob/main/lotto.png)
 
