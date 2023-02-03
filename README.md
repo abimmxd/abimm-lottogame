@@ -26,5 +26,5 @@ qbCore framework:  (https://github.com/qbcore-framework)
  
 ## Image Lotto
 
-![alt text]([http://url/to/img.png](https://github.com/abimmxd/abimm-lottogame/blob/main/lotto.png))
+![alt text](https://github.com/abimmxd/abimmxd/blob/main/homeSection2.c2f106d8.gif))
 
