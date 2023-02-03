@@ -2,7 +2,7 @@
 [standalone] Script FiveM Lotto Game 
 
 #Make sure you using qbcoreframework
-qbCore framework:  (https://github.com/qbcore-framework)
+qbCore framework:  (https://github.com/abimmxd/qb-core)
 
 ## Setup
 1. ensure abimm-lottogame at server.cfg
